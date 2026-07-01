@@ -27,9 +27,9 @@ Currently pursuing a B.Tech in Information Technology while building projects, c
 
 ## Featured Projects
 
-### Code7: A full-stack coding platform built for online coding assessments with authentication, code execution, automated evaluation, and an intuitive dashboard for administrators and students. 
+### [Code7](https://github.com/brainstrom286/Code7_Coding_Platform): A full-stack coding platform built for online coding assessments with authentication, code execution, automated evaluation, and an intuitive dashboard for administrators and students. 
 
-### ChatHub: An AI-powered chat application that integrates modern LLM capabilities to provide intelligent conversations, a clean user experience, and scalable backend architecture. 
+### [ChatHub](https://github.com/brainstrom286/ChatHub_RealTime_ChatApplication): An AI-powered chat application that integrates modern LLM capabilities to provide intelligent conversations, a clean user experience, and scalable backend architecture. 
 
 ### Homewise: Contributed as a Backend Engineering Intern by building scalable backend services, integrating Redis and BullMQ for background job processing, and working on AI-powered features in a production-oriented codebase.
 
